@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar {
+    width: 50%;
+    margin: 1rem auto;
+    display: flex;
+    justify-content: space-between;
+}
+.navbar button {
+    background-color:rgb(218, 52, 121);
+    padding: 0.5rem;
+    color: #fff;
+    border: 1px solid transparent;
+    border-radius: 0.2rem;
+    box-shadow: 2px 3px 2px rgba(94, 88, 88, 0.3);
+}
+table, td {
+    margin: 0 auto;
+    border: 1px solid grey;
+    border-collapse: collapse;
+    padding: 1rem 2.5rem;
+}
+.table {
+    width: 38%;
+    margin: 0 auto;
+}
+table {
+    border: none;
+}
+tr {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    border-collapse: collapse;
+}
+td {
+    width: 3rem;
+    cursor: pointer;
+}
+.blue {
+    background-color: blue;
+}
+.orangered {
+    background-color: orangered;
+}

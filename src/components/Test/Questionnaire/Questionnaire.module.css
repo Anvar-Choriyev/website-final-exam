@@ -1,0 +1,45 @@
+.test {
+    width: 50%;
+    margin: 1rem auto;
+    border: 1px solid grey;
+    border-radius: 0.5rem;
+}
+.question {
+    background-color: rgba(235, 241, 235, 0.959);
+    padding: 1rem 0;
+}
+.control {
+    background-color: rgba(235, 241, 235, 0.959);
+    padding: 1rem 0;
+    display: flex;
+    gap: 3rem;
+    justify-content: center;
+}
+.control button {
+    background-color: darkgrey;
+    padding: 0.3rem 1rem;
+    border-radius: 0.2rem;
+    border: 1px solid transparent;
+}
+.control button:last-child {
+    background-color: rebeccapurple;
+    color: #fff;
+    border: 1px solid transparent;
+    border-radius: 0.2rem;
+}
+li {
+    cursor: pointer;
+    list-style: none;
+}
+li span {
+    display: block;
+}
+.gray {
+    background-color: lightgrey;
+}
+.green {
+    background-color: rgb(47, 255, 64);
+}
+.red {
+    background-color: rgba(209, 71, 21, 0.897);
+}
