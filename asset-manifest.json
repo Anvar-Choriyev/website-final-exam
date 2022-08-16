@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/deploy-final-exam/static/css/main.577a5148.css",
-    "main.js": "/deploy-final-exam/static/js/main.701f02ce.js",
-    "static/js/787.fe8903a0.chunk.js": "/deploy-final-exam/static/js/787.fe8903a0.chunk.js",
-    "static/media/logo.svg": "/deploy-final-exam/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/deploy-final-exam/index.html",
-    "main.577a5148.css.map": "/deploy-final-exam/static/css/main.577a5148.css.map",
-    "main.701f02ce.js.map": "/deploy-final-exam/static/js/main.701f02ce.js.map",
-    "787.fe8903a0.chunk.js.map": "/deploy-final-exam/static/js/787.fe8903a0.chunk.js.map"
+    "main.css": "/projectfinalexam/static/css/main.1127845b.css",
+    "main.js": "/projectfinalexam/static/js/main.60f995f3.js",
+    "static/js/787.fe8903a0.chunk.js": "/projectfinalexam/static/js/787.fe8903a0.chunk.js",
+    "static/media/logo.svg": "/projectfinalexam/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/projectfinalexam/index.html",
+    "main.1127845b.css.map": "/projectfinalexam/static/css/main.1127845b.css.map",
+    "main.60f995f3.js.map": "/projectfinalexam/static/js/main.60f995f3.js.map",
+    "787.fe8903a0.chunk.js.map": "/projectfinalexam/static/js/787.fe8903a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.577a5148.css",
-    "static/js/main.701f02ce.js"
+    "static/css/main.1127845b.css",
+    "static/js/main.60f995f3.js"
   ]
 }
